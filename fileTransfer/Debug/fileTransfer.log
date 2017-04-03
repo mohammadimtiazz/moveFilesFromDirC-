@@ -1,0 +1,52 @@
+﻿Build started 10/3/2016 4:38:52 PM.
+     1>Project "C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\EyeLockProjects\fileTransfer\fileTransfer\fileTransfer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\fileTransfer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\BIN\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\fileTransfer.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt fileTransfer.cpp
+         fileTransfer.cpp
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(49): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(52): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(71): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(74): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(75): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(76): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(93): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(94): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(96): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\mimtiaz\documents\visual studio 2010\projects\eyelockprojects\filetransfer\filetransfer\filetransfer.cpp(97): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\BIN\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\EyeLockProjects\fileTransfer\Debug\fileTransfer.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fileTransfer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\EyeLockProjects\fileTransfer\Debug\fileTransfer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\EyeLockProjects\fileTransfer\Debug\fileTransfer.lib" /MACHINE:X86 Debug\fileTransfer.exe.embed.manifest.res
+         Debug\fileTransfer.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\fileTransfer.exe.embed.manifest" /manifest Debug\fileTransfer.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         fileTransfer.vcxproj -> C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\EyeLockProjects\fileTransfer\Debug\fileTransfer.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\fileTransfer.unsuccessfulbuild".
+         Touching "Debug\fileTransfer.lastbuildstate".
+     1>Done Building Project "C:\Users\mimtiaz\Documents\Visual Studio 2010\Projects\EyeLockProjects\fileTransfer\fileTransfer\fileTransfer.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.34
